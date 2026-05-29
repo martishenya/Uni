@@ -19,7 +19,7 @@ Listas doblemente enlazadas
 Listas de listas
 
 ### Practica 7:
-Ficheros binarios Archivo
+Ficheros binarios 
 
 ### Practica 8:
 Ficheros binarios y de texto 
