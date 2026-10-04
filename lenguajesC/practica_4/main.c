@@ -28,6 +28,7 @@ int main(void) {
     int opc;
     struct tipoNodo *primero = NULL;
     
+    
     do {
         opc = menu();
         
